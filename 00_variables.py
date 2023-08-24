@@ -1,0 +1,3 @@
+variable = "Norbey"
+
+print(variable)
